@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Career Accelerator Program from Prepleaf by Masai School Bengaluru**
 
-- 👨‍💻 All of my projects are available at [https://anshu1997-cloud.github.io/Anshuman-chaturvedi-Portfolio/](https://portresume.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anshu1997-cloud.github.io/Anshuman-chaturvedi-Portfolio/](https://new-portfolio2.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, Java-Script, ReactJs**
 
